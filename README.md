@@ -8,7 +8,9 @@ MVP Scope: Read tennis data from a CSV, Calculate performance metrics such as se
 Future Plans: Create visual representations of player statistics; Filter stats by tournament, year and surface; Analyze player performances across multiple matches.
 
 
-Tech Stack: Programming Language: Python
+Tech Stack: 
+      
+            Programming Language: Python
 
             Libraries: Pandas and Matplotlib
             
