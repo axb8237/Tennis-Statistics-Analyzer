@@ -9,6 +9,9 @@ Future Plans: Create visual representations of player statistics; Filter stats b
 
 
 Tech Stack: Programming Language: Python
+
             Libraries: Pandas and Matplotlib
+            
             Data Storage: CSV file
+            
             Data collection: Kaggle
